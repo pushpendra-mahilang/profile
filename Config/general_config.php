@@ -7,15 +7,15 @@ $profilePicSize=51200;
 
 $sitename = "Pushpendra Mahilang";
 
-$baseurl = "http://profile.gbasa.in/";
+$baseurl = "http://pushpendra.gbasa.in/";
 // $fileURL = "http://localhost/techbprjuserfiles";
 
 $uploadPicurl = "../../../../images/";
 $Iconuploadpath="../images/";
 $IconPath="../../images/";
-$imageurl = "http://profile.gbasa.in/img/";
+$imageurl = "http://pushpendra.gbasa.in/img/";
 $resourceSize = 51200;
-$resourcePath = "http://profile.gbasa.in/resources/";
+$resourcePath = "http://pushpendra.gbasa.in/resources/";
 $resourceUploadpath = "../../resources";
 
 
